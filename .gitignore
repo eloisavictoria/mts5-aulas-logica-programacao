@@ -1,0 +1,4 @@
+node_modules
+.venv
+generate_test_charter_xlsx.py
+test-charter-aprovacao-aluno.xlsx
